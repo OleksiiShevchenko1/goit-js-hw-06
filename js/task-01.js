@@ -28,3 +28,5 @@ for (const quantityCategorie of quantityCategories) {
     `Elements: ${quantityCategorie.lastElementChild.children.length}`
   );
 }
+
+
